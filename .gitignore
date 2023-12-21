@@ -1,2 +1,4 @@
-input1.txt
+*.txt
+!input.txt
 *.exe
+.vscode
